@@ -24,14 +24,14 @@ body {
 
 main {
   postion: relative;
-  width: 75%;
+  width: 96%;
   height: auto;
 }
 
 #parchment {
   position: absolute;
   display: flex;
-	width: 75%;
+	width: 100%;
 
   top: 0%; left: 50%; transform: translate(-50%, 0);
   margin: 2em 0;
@@ -62,7 +62,7 @@ main p {
   position: relative;
  	display: flex;
   flex-direction: column;
-	width: 75%;
+	width: 98%;
   height: auto;
   margin: 0 auto;
 	padding: 4em 0 0 0;
